@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "titulo": "Lançamento do novo sistema",
+    "descricao": "Confira as novidades do...",
+    "autor": "Maria Silva",
+    "dataPublicacao": "2026-04-28",
+    "fotoAutor": "https://example.com/profiles/mariasilva.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "Atualização de Segurança Crítica",
+    "descricao": "Medidas preventivas importantes sobre...",
+    "autor": "João Santos",
+    "dataPublicacao": "2026-04-20",
+    "fotoAutor": "https://example.com/profiles/joãosantos.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Workshop de Metodologias Ágeis",
+    "descricao": "Participe no nosso evento sobre...",
+    "autor": "Ana Rodrigues",
+    "dataPublicacao": "2026-04-23",
+    "fotoAutor": "https://example.com/profiles/anarodrigues.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "Resultados do Primeiro Trimestre",
+    "descricao": "Análise detalhada do desempenho financeiro...",
+    "autor": "Pedro Fernandes",
+    "dataPublicacao": "2026-03-07",
+    "fotoAutor": "https://example.com/profiles/pedrofernandes.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "Inovação tecnológica na empresa",
+    "descricao": "Como estamos a aplicar novas tecnologias...",
+    "autor": "Inês Pereira",
+    "dataPublicacao": "2026-04-19",
+    "fotoAutor": "https://example.com/profiles/inêspereira.jpg"
+  },
+  {
+    "id": 6,
+    "titulo": "Nova parceria estratégica firmada",
+    "descricao": "Detalhes sobre o acordo com a...",
+    "autor": "Carlos Costa",
+    "dataPublicacao": "2026-03-30",
+    "fotoAutor": "https://example.com/profiles/carloscosta.jpg"
+  },
+  {
+    "id": 7,
+    "titulo": "Dicas de produtividade no home office",
+    "descricao": "Aprenda a gerir melhor o seu tempo...",
+    "autor": "Sofia Martins",
+    "dataPublicacao": "2026-02-28",
+    "fotoAutor": "https://example.com/profiles/sofiamartins.jpg"
+  },
+  {
+    "id": 8,
+    "titulo": "Transição para computação em nuvem",
+    "descricao": "Benefícios e passos da nossa migração...",
+    "autor": "Rui Oliveira",
+    "dataPublicacao": "2026-04-18",
+    "fotoAutor": "https://example.com/profiles/ruioliveira.jpg"
+  },
+  {
+    "id": 9,
+    "titulo": "Implementação de Inteligência Artificial",
+    "descricao": "Como a IA vai otimizar os nossos processos...",
+    "autor": "Cláudia Sousa",
+    "dataPublicacao": "2026-03-06",
+    "fotoAutor": "https://example.com/profiles/cláudiasousa.jpg"
+  },
+  {
+    "id": 10,
+    "titulo": "Melhores práticas de UI/UX",
+    "descricao": "Guia completo para melhorar a experiência...",
+    "autor": "Miguel Ribeiro",
+    "dataPublicacao": "2026-03-03",
+    "fotoAutor": "https://example.com/profiles/miguelribeiro.jpg"
+  },
+  {
+    "id": 11,
+    "titulo": "Boas-vindas aos novos colaboradores",
+    "descricao": "Conheça os novos talentos que se juntam...",
+    "autor": "Beatriz Teixeira",
+    "dataPublicacao": "2026-04-01",
+    "fotoAutor": "https://example.com/profiles/beatrizteixeira.jpg"
+  },
+  {
+    "id": 12,
+    "titulo": "Manutenção agendada dos servidores",
+    "descricao": "Aviso sobre a indisponibilidade temporária...",
+    "autor": "Ricardo Carvalho",
+    "dataPublicacao": "2026-04-18",
+    "fotoAutor": "https://example.com/profiles/ricardocarvalho.jpg"
+  },
+  {
+    "id": 13,
+    "titulo": "Treinamento de cibersegurança",
+    "descricao": "Proteja os seus dados com estas orientações...",
+    "autor": "Sara Pinto",
+    "dataPublicacao": "2026-04-25",
+    "fotoAutor": "https://example.com/profiles/sarapinto.jpg"
+  },
+  {
+    "id": 14,
+    "titulo": "Expansão para novos mercados",
+    "descricao": "Planos detalhados sobre a internacionalização...",
+    "autor": "António Almeida",
+    "dataPublicacao": "2026-03-14",
+    "fotoAutor": "https://example.com/profiles/antónioalmeida.jpg"
+  },
+  {
+    "id": 15,
+    "titulo": "O futuro do desenvolvimento web",
+    "descricao": "Tendências tecnológicas para os próximos...",
+    "autor": "Margarida Marques",
+    "dataPublicacao": "2026-04-21",
+    "fotoAutor": "https://example.com/profiles/margaridamarques.jpg"
+  },
+  {
+    "id": 16,
+    "titulo": "Adopção de práticas sustentáveis",
+    "descricao": "Iniciativas verdes que estamos a apoiar...",
+    "autor": "José Mendes",
+    "dataPublicacao": "2026-03-08",
+    "fotoAutor": "https://example.com/profiles/josémendes.jpg"
+  },
+  {
+    "id": 17,
+    "titulo": "Lançamento da aplicação mobile",
+    "descricao": "Disponível agora na App Store e Google Play...",
+    "autor": "Catarina Rocha",
+    "dataPublicacao": "2026-04-06",
+    "fotoAutor": "https://example.com/profiles/catarinarocha.jpg"
+  },
+  {
+    "id": 18,
+    "titulo": "Modernização da infraestrutura",
+    "descricao": "Melhorias de hardware e conectividade...",
+    "autor": "Manuel Fonseca",
+    "dataPublicacao": "2026-04-28",
+    "fotoAutor": "https://example.com/profiles/manuelfonseca.jpg"
+  },
+  {
+    "id": 19,
+    "titulo": "Feedback dos clientes e melhorias",
+    "descricao": "O que os nossos utilizadores dizem sobre...",
+    "autor": "Diana Lopes",
+    "dataPublicacao": "2026-03-11",
+    "fotoAutor": "https://example.com/profiles/dianalopes.jpg"
+  },
+  {
+    "id": 20,
+    "titulo": "Premiação interna de inovação",
+    "descricao": "Conheça os projetos vencedores deste ano...",
+    "autor": "Francisco Antunes",
+    "dataPublicacao": "2026-04-02",
+    "fotoAutor": "https://example.com/profiles/franciscoantunes.jpg"
+  },
+  {
+    "id": 21,
+    "titulo": "Novos benefícios para a equipa",
+    "descricao": "Apresentamos o novo pacote de incentivos...",
+    "autor": "Patrícia Neves",
+    "dataPublicacao": "2026-04-08",
+    "fotoAutor": "https://example.com/profiles/patrícianeves.jpg"
+  },
+  {
+    "id": 22,
+    "titulo": "Estratégia de Marketing para 2026",
+    "descricao": "Foco nos canais digitais e conversão...",
+    "autor": "Nuno Machado",
+    "dataPublicacao": "2026-04-28",
+    "fotoAutor": "https://example.com/profiles/nunomachado.jpg"
+  },
+  {
+    "id": 23,
+    "titulo": "Migração de base de dados concluída",
+    "descricao": "Transição bem-sucedida para o novo cluster...",
+    "autor": "Joana Correia",
+    "dataPublicacao": "2026-02-27",
+    "fotoAutor": "https://example.com/profiles/joanacorreia.jpg"
+  },
+  {
+    "id": 24,
+    "titulo": "Otimização de performance de APIs",
+    "descricao": "Redução do tempo de resposta em mais de...",
+    "autor": "Tiago Cardoso",
+    "dataPublicacao": "2026-03-15",
+    "fotoAutor": "https://example.com/profiles/tiagocardoso.jpg"
+  },
+  {
+    "id": 25,
+    "titulo": "Dia da Saúde Mental na empresa",
+    "descricao": "Atividades e palestras focadas no bem-estar...",
+    "autor": "Rita Gouveia",
+    "dataPublicacao": "2026-04-21",
+    "fotoAutor": "https://example.com/profiles/ritagouveia.jpg"
+  },
+  {
+    "id": 26,
+    "titulo": "Criação do novo Design System",
+    "descricao": "Padronização de componentes visuais para...",
+    "autor": "André Moreira",
+    "dataPublicacao": "2026-03-28",
+    "fotoAutor": "https://example.com/profiles/andrémoreira.jpg"
+  },
+  {
+    "id": 27,
+    "titulo": "Automatização de testes de software",
+    "descricao": "Garantia de qualidade contínua com...",
+    "autor": "Mariana Ramos",
+    "dataPublicacao": "2026-03-30",
+    "fotoAutor": "https://example.com/profiles/marianaramos.jpg"
+  },
+  {
+    "id": 28,
+    "titulo": "Abertura de novas vagas de emprego",
+    "descricao": "Procuramos programadores e gestores de...",
+    "autor": "Vítor Henriques",
+    "dataPublicacao": "2026-02-27",
+    "fotoAutor": "https://example.com/profiles/vítorhenriques.jpg"
+  },
+  {
+    "id": 29,
+    "titulo": "Comemoração do aniversário da empresa",
+    "descricao": "Agradecemos a todos os colaboradores por...",
+    "autor": "Helena Coimbra",
+    "dataPublicacao": "2026-04-25",
+    "fotoAutor": "https://example.com/profiles/helenacoimbra.jpg"
+  },
+  {
+    "id": 30,
+    "titulo": "Resultados do programa de mentoria",
+    "descricao": "Balanço final do impacto do desenvolvimento...",
+    "autor": "Bruno Tavares",
+    "dataPublicacao": "2026-02-27",
+    "fotoAutor": "https://example.com/profiles/brunotavares.jpg"
+  }
+]
